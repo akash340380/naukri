@@ -1,7 +1,7 @@
-package com.application.naukri.controller;
+package com.application.naukri.job.controller;
 
-import com.application.naukri.model.Job;
-import com.application.naukri.service.JobServiceImpl;
+import com.application.naukri.job.model.Job;
+import com.application.naukri.job.service.JobServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

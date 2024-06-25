@@ -1,7 +1,7 @@
-package com.application.naukri.service;
+package com.application.naukri.job.service;
 
-import com.application.naukri.model.Job;
-import com.application.naukri.repository.JobRepository;
+import com.application.naukri.job.model.Job;
+import com.application.naukri.job.repository.JobRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

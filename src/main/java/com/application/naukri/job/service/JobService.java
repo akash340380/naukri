@@ -1,6 +1,6 @@
-package com.application.naukri.service;
+package com.application.naukri.job.service;
 
-import com.application.naukri.model.Job;
+import com.application.naukri.job.model.Job;
 
 import java.util.List;
 import java.util.Optional;

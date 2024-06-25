@@ -1,4 +1,4 @@
-package com.application.naukri.model;
+package com.application.naukri.job.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
